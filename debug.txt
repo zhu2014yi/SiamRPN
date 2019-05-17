@@ -1,0 +1,4 @@
+/ssd/lasot_finetune
+kangaroo-2
+00002045
+/ssd/lasot_finetune/kangaroo-2/00002045.00.x*.jpg
